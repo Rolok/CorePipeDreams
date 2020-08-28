@@ -474,7 +474,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 17667297456748244602
+        Id: 216450419333779503
       }
     }
   }
@@ -496,6 +496,7 @@ Objects {
     }
     DisableCastShadows: true
     DisableReceiveDecals: true
+    EnableCameraCollision: true
     StaticMesh {
       Physics {
       }
@@ -733,7 +734,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 17667297456748244602
+        Id: 216450419333779503
       }
     }
   }
@@ -755,6 +756,7 @@ Objects {
     }
     DisableCastShadows: true
     DisableReceiveDecals: true
+    EnableCameraCollision: true
     StaticMesh {
       Physics {
       }
@@ -1109,7 +1111,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 17667297456748244602
+        Id: 216450419333779503
       }
     }
   }
@@ -1131,6 +1133,7 @@ Objects {
     }
     DisableCastShadows: true
     DisableReceiveDecals: true
+    EnableCameraCollision: true
     StaticMesh {
       Physics {
       }
@@ -1549,7 +1552,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 17667297456748244602
+        Id: 216450419333779503
       }
     }
   }
@@ -1571,6 +1574,7 @@ Objects {
     }
     DisableCastShadows: true
     DisableReceiveDecals: true
+    EnableCameraCollision: true
     StaticMesh {
       Physics {
       }
@@ -24996,7 +25000,7 @@ Objects {
       Z: 3150
     }
     Rotation {
-      Yaw: 89.9998779
+      Yaw: 180
     }
     Scale {
       X: 1
@@ -25054,7 +25058,7 @@ Objects {
       Z: 3150
     }
     Rotation {
-      Yaw: 89.9998779
+      Yaw: 180
     }
     Scale {
       X: 1
@@ -25112,7 +25116,6 @@ Objects {
       Z: 3150
     }
     Rotation {
-      Yaw: 89.9998779
     }
     Scale {
       X: 1
@@ -25170,7 +25173,6 @@ Objects {
       Z: 3150
     }
     Rotation {
-      Yaw: 89.9998779
     }
     Scale {
       X: 1
@@ -25228,7 +25230,7 @@ Objects {
       Z: 3150
     }
     Rotation {
-      Yaw: 89.9998856
+      Yaw: 180
     }
     Scale {
       X: 1
@@ -25286,7 +25288,7 @@ Objects {
       Z: 3150
     }
     Rotation {
-      Yaw: 89.9998779
+      Yaw: 180
     }
     Scale {
       X: 1
@@ -25344,7 +25346,6 @@ Objects {
       Z: 3150
     }
     Rotation {
-      Yaw: 89.9998856
     }
     Scale {
       X: 1
@@ -25402,7 +25403,6 @@ Objects {
       Z: 3150
     }
     Rotation {
-      Yaw: 89.9998932
     }
     Scale {
       X: 1

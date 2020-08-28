@@ -1,0 +1,13 @@
+GameId: "4356c0bff4354afe820c31acec9a691d"
+ClientVersion: "1.0.132-prod-s"
+Name: "Pipe Dreams 4 Teams"
+Description: "Travel through the tubes to set them to your team color (your name will be in your team color).  First team to control 45 wins.\r\nUse blockades (also colored per team) to stop enemies from following and retaking area you control.\r\nUse teleport to get to another random part of the map if you are blocked.\r\nSilver spheres can be pushed, are subject to gravity and block travel.\r\n\r\nThis is designed for 4 teams so while multiples of 4 are best, it can be played with other amounts.  The goal is to control 45 tube sections -- with only 2 players it is over very quickly."
+MaxPlayers: 8
+Tags: "Action"
+Tags: "Control"
+Tags: "Multiplayer"
+Tags: "Competitive"
+Tags: "ThirdPerson"
+ScreenshotPaths: "C:\\Users\\Roland\\Downloads\\PipeDreams1.jpg"
+ScreenshotPaths: "C:\\Users\\Roland\\Downloads\\PipeDreams2.jpg"
+ReleaseNotes: "first release.  maybe add some sort of dynamic spacey background?  Make music more dynamic?  Tie music into when 1 team gets close to winning -- or a sound effect?  Add in a games won scoreboard to keep track of victories for the session.  I\'d set it to be shareable, but the shame level is high due to lack of organization, forethought and knowledge."

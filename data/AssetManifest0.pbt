@@ -106,3 +106,12 @@ Assets {
     AssetId: "sm_cylinder_hq_test_001"
   }
 }
+Assets {
+  Id: 216450419333779503
+  Name: "Metal Diamond Plates 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_rust_diamond-plate_001"
+  }
+}

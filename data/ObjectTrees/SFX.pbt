@@ -118,7 +118,7 @@ Objects {
     Overrides {
       Name: "bp:Type"
       Enum {
-        Value: "mc:emx_celestial_journey_kit:55"
+        Value: "mc:emx_celestial_journey_kit:56"
       }
     }
   }
@@ -133,12 +133,10 @@ Objects {
       Id: 16779029548864954724
     }
     AudioBP {
-      Volume: 4
+      AutoPlay: true
+      Volume: 2.76717567
       Falloff: 3600
       Radius: 400
-      EnableOcclusion: true
-      IsSpatializationEnabled: true
-      IsAttenuationEnabled: true
     }
   }
 }
